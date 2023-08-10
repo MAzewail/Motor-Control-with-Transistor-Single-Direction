@@ -17,6 +17,8 @@ Welcome to the Motor Control with Transistor (Single Direction) project! This pr
 
 The Motor Control with Transistor (Single Direction) project allows you to control the rotation of a motor in a single direction using a transistor as a switch. The transistor acts as a gatekeeper, allowing or blocking the flow of current to the motor. By controlling the transistor's state, you can control the motor's rotation.
 
+- [Tinkercad link](https://www.tinkercad.com/things/kGUpNAAHdOT)
+
 ## Features
 
 - Control the motor's rotation in a single direction.
@@ -36,6 +38,8 @@ To set up and run this project, you will need the following hardware components:
 - Breadboard or PCB for assembling the circuit.
 
 ## Circuit Diagram
+
+- [Tinkercad link](https://www.tinkercad.com/things/kGUpNAAHdOT)
 
 ![Circuit Diagram](https://github.com/MAzewail/Motor-Control-with-Transistor-Single-Direction/blob/main/Controls%20motor%20in%20a%20single%20direction.png)
 
