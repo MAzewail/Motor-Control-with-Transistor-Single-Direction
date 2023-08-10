@@ -37,7 +37,7 @@ To set up and run this project, you will need the following hardware components:
 
 ## Circuit Diagram
 
-![Circuit Diagram](<>)
+![Circuit Diagram](https://github.com/MAzewail/Motor-Control-with-Transistor-Single-Direction/blob/main/Controls%20motor%20in%20a%20single%20direction.png)
 
 The circuit diagram above illustrates the connections between the microcontroller board, transistor, diode, motor, and other components. Ensure that you make the appropriate connections based on the diagram when setting up the hardware.
 
